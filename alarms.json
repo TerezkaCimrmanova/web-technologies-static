@@ -1,0 +1,172 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "date": "2023-02-15T08:45:00.000Z",
+            "location": {
+                "lat": 47.6197,
+                "lon": 13.0036
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Verletzte Person in den Bergen, benötigt dringend Hilfe.",
+            "caller": {
+                "name": "Klara Himmel",
+                "phone": "+49 123 456789"
+            }
+        },
+        {
+            "id": 2,
+            "date": "2023-04-22T14:20:00.000Z",
+            "location": {
+                "lat": 47.6062,
+                "lon": 13.0493
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Bergsteiger gestürzt, benötigt medizinische Unterstützung.",
+            "caller": {
+                "name": "Max Berg",
+                "phone": "+49 234 567890"
+            }
+        },
+        {
+            "id": 3,
+            "date": "2023-06-10T17:35:00.000Z",
+            "location": {
+                "lat": 47.5653,
+                "lon": 13.4478
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Notfall in den Alpen, dringende Rettung erforderlich.",
+            "caller": {
+                "name": "Anna Schnee",
+                "phone": "+49 345 678901"
+            }
+        },
+        {
+            "id": 4,
+            "date": "2023-08-05T12:10:00.000Z",
+            "location": {
+                "lat": 47.6229,
+                "lon": 13.6346
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Verirrter Wanderer benötigt Hilfe, keine genaue Position.",
+            "caller": {
+                "name": "Paul Wald",
+                "phone": "+49 456 789012"
+            }
+        },
+        {
+            "id": 5,
+            "date": "2023-10-17T09:55:00.000Z",
+            "location": {
+                "lat": 47.6224,
+                "lon": 13.0023
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Notfall in den bayerischen Alpen, bitte um schnelle Hilfe.",
+            "caller": {
+                "name": "Sophie Fischer",
+                "phone": "+49 567 890123"
+            }
+        },
+        {
+            "id": 6,
+            "date": "2023-12-08T16:40:00.000Z",
+            "location": {
+                "lat": 47.6327,
+                "lon": 12.8772
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Verletzte Person auf Berggipfel, dringend medizinische Versorgung benötigt.",
+            "caller": {
+                "name": "Leon Mayer",
+                "phone": "+49 678 901234"
+            }
+        },
+        {
+            "id": 7,
+            "date": "2023-02-28T11:15:00.000Z",
+            "location": {
+                "lat": 47.6283,
+                "lon": 13.0044
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Kletterunfall, bitte um sofortige Rettung.",
+            "caller": {
+                "name": "Mia Huber",
+                "phone": "+49 789 012345"
+            }
+        },
+        {
+            "id": 8,
+            "date": "2023-04-15T13:50:00.000Z",
+            "location": {
+                "lat": 47.6198,
+                "lon": 13.4225
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Notfall beim Bergsteigen, benötigen Bergrettung.",
+            "caller": {
+                "name": "Felix Bauer",
+                "phone": "+49 890 123456"
+            }
+        },
+        {
+            "id": 9,
+            "date": "2023-06-23T18:25:00.000Z",
+            "location": {
+                "lat": 47.5796,
+                "lon": 13.6522
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Verunglückter Wanderer, bitte um schnelle Hilfe.",
+            "caller": {
+                "name": "Emma Koch",
+                "phone": "+49 901 234567"
+            }
+        },
+        {
+            "id": 10,
+            "date": "2023-08-10T14:00:00.000Z",
+            "location": {
+                "lat": 47.5744,
+                "lon": 13.4062
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Bergnotfall, benötigen Unterstützung bei der Bergung.",
+            "caller": {
+                "name": "Lukas Schwarz",
+                "phone": "+49 123 456789"
+            }
+        },
+        {
+            "id": 11,
+            "date": "2023-10-29T10:35:00.000Z",
+            "location": {
+                "lat": 47.6326,
+                "lon": 13.0823
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Notfall in den Berchtesgadener Alpen, bitte um Rettung.",
+            "caller": {
+                "name": "Lena Becker",
+                "phone": "+49 234 567890"
+            }
+        },
+        {
+            "id": 12,
+            "date": "2023-12-18T15:10:00.000Z",
+            "location": {
+                "lat": 47.6211,
+                "lon": 13.0563
+            },
+            "keyword": "Rettungsdiensteinsatz in unwegsamen Gelände",
+            "message": "Dringende Bergrettung erforderlich, verletzte Person.",
+            "caller": {
+                "name": "David Richter",
+                "phone": "+49 345 678901"
+            }
+        }
+    ]
+}

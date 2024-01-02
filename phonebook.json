@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "firstname": "Klara",
+            "lastname": "Himmel",
+            "radio": "Bergwacht Ramsau 80/1",
+            "mobilephone": "+49 123 456789",
+            "homephone": "+49 987 654321",
+            "qualifications": [
+                "EL",
+                "ARS"
+            ]
+        },
+        {
+            "firstname": "Max",
+            "lastname": "Berg",
+            "radio": "Bergwacht Ramsau 80/2",
+            "mobilephone": "+49 234 567890",
+            "homephone": "+49 876 543210",
+            "qualifications": [
+                "UEK",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "Anna",
+            "lastname": "Schnee",
+            "radio": "Bergwacht Ramsau 80/3",
+            "mobilephone": "+49 345 678901",
+            "homephone": "+49 765 432109",
+            "qualifications": [
+                "EL",
+                "ARS",
+                "KIT"
+            ]
+        },
+        {
+            "firstname": "Paul",
+            "lastname": "Wald",
+            "radio": "Bergwacht Ramsau 80/4",
+            "mobilephone": "+49 456 789012",
+            "homephone": "+49 654 321098",
+            "qualifications": [
+                "UEK",
+                "EL"
+            ]
+        },
+        {
+            "firstname": "Sophie",
+            "lastname": "Fischer",
+            "radio": "Bergwacht Ramsau 80/5",
+            "mobilephone": "+49 567 890123",
+            "homephone": "+49 543 210987",
+            "qualifications": [
+                "ARS",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "Leon",
+            "lastname": "Mayer",
+            "radio": "Bergwacht Ramsau 80/6",
+            "mobilephone": "+49 678 901234",
+            "homephone": "+49 432 109876",
+            "qualifications": [
+                "UEK",
+                "EL"
+            ]
+        },
+        {
+            "firstname": "Mia",
+            "lastname": "Huber",
+            "radio": "Bergwacht Ramsau 80/7",
+            "mobilephone": "+49 789 012345",
+            "homephone": "+49 321 098765",
+            "qualifications": [
+                "ARS",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "Felix",
+            "lastname": "Bauer",
+            "radio": "Bergwacht Ramsau 80/8",
+            "mobilephone": "+49 890 123456",
+            "homephone": "+49 210 987654",
+            "qualifications": [
+                "UEK",
+                "KIT"
+            ]
+        },
+        {
+            "firstname": "Emma",
+            "lastname": "Koch",
+            "radio": "Bergwacht Ramsau 80/9",
+            "mobilephone": "+49 901 234567",
+            "homephone": "+49 109 876543",
+            "qualifications": [
+                "EL",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "Lukas",
+            "lastname": "Schwarz",
+            "radio": "Bergwacht Ramsau 80/10",
+            "mobilephone": "+49 123 456789",
+            "homephone": "+49 987 654321",
+            "qualifications": [
+                "ARS",
+                "UEK"
+            ]
+        },
+        {
+            "firstname": "Lena",
+            "lastname": "Becker",
+            "radio": "Bergwacht Ramsau 80/11",
+            "mobilephone": "+49 234 567890",
+            "homephone": "+49 876 543210",
+            "qualifications": [
+                "EL",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "David",
+            "lastname": "Richter",
+            "radio": "Bergwacht Ramsau 80/12",
+            "mobilephone": "+49 345 678901",
+            "homephone": "+49 765 432109",
+            "qualifications": [
+                "ARS",
+                "UEK"
+            ]
+        },
+        {
+            "firstname": "Sarah",
+            "lastname": "Bergmann",
+            "radio": "Bergwacht Ramsau 80/13",
+            "mobilephone": "+49 456 789012",
+            "homephone": "+49 654 321098",
+            "qualifications": [
+                "EL",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "Tom",
+            "lastname": "Fuchs",
+            "radio": "Bergwacht Ramsau 80/14",
+            "mobilephone": "+49 567 890123",
+            "homephone": "+49 543 210987",
+            "qualifications": [
+                "ARS",
+                "KIT"
+            ]
+        },
+        {
+            "firstname": "Hannah",
+            "lastname": "Graf",
+            "radio": "Bergwacht Ramsau 80/15",
+            "mobilephone": "+49 678 901234",
+            "homephone": "+49 432 109876",
+            "qualifications": [
+                "UEK",
+                "EL"
+            ]
+        },
+        {
+            "firstname": "Nico",
+            "lastname": "Weber",
+            "radio": "Bergwacht Ramsau 80/16",
+            "mobilephone": "+49 789 012345",
+            "homephone": "+49 321 098765",
+            "qualifications": [
+                "ARS",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "Julia",
+            "lastname": "Schulz",
+            "radio": "Bergwacht Ramsau 80/17",
+            "mobilephone": "+49 890 123456",
+            "homephone": "+49 210 987654",
+            "qualifications": [
+                "UEK",
+                "EL"
+            ]
+        },
+        {
+            "firstname": "Ben",
+            "lastname": "Kühn",
+            "radio": "Bergwacht Ramsau 80/18",
+            "mobilephone": "+49 901 234567",
+            "homephone": "+49 109 876543",
+            "qualifications": [
+                "ARS",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "Lara",
+            "lastname": "Werner",
+            "radio": "Bergwacht Ramsau 80/19",
+            "mobilephone": "+49 123 456789",
+            "homephone": "+49 987 654321",
+            "qualifications": [
+                "UEK",
+                "EL",
+                "KIT"
+            ]
+        },
+        {
+            "firstname": "Tim",
+            "lastname": "Schmitz",
+            "radio": "Bergwacht Ramsau 80/20",
+            "mobilephone": "+49 234 567890",
+            "homephone": "+49 876 543210",
+            "qualifications": [
+                "ARS",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "Emily",
+            "lastname": "Kraft",
+            "radio": "Bergwacht Ramsau 80/21",
+            "mobilephone": "+49 345 678901",
+            "homephone": "+49 765 432109",
+            "qualifications": [
+                "UEK",
+                "EL"
+            ]
+        },
+        {
+            "firstname": "Jan",
+            "lastname": "Bach",
+            "radio": "Bergwacht Ramsau 80/22",
+            "mobilephone": "+49 456 789012",
+            "homephone": "+49 654 321098",
+            "qualifications": [
+                "ARS",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "Lina",
+            "lastname": "Simon",
+            "radio": "Bergwacht Ramsau 80/23",
+            "mobilephone": "+49 567 890123",
+            "homephone": "+49 543 210987",
+            "qualifications": [
+                "UEK",
+                "EL",
+                "KIT"
+            ]
+        },
+        {
+            "firstname": "Marc",
+            "lastname": "Neumann",
+            "radio": "Bergwacht Ramsau 80/24",
+            "mobilephone": "+49 678 901234",
+            "homephone": "+49 432 109876",
+            "qualifications": [
+                "ARS",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "Sophia",
+            "lastname": "Hofmann",
+            "radio": "Bergwacht Ramsau 80/25",
+            "mobilephone": "+49 789 012345",
+            "homephone": "+49 321 098765",
+            "qualifications": [
+                "UEK",
+                "EL"
+            ]
+        },
+        {
+            "firstname": "Erik",
+            "lastname": "Krause",
+            "radio": "Bergwacht Ramsau 80/26",
+            "mobilephone": "+49 890 123456",
+            "homephone": "+49 210 987654",
+            "qualifications": [
+                "ARS",
+                "CAN"
+            ]
+        },
+        {
+            "firstname": "Isabella",
+            "lastname": "Herz",
+            "radio": "Bergwacht Ramsau 80/27",
+            "mobilephone": "+49 901 234567",
+            "homephone": "+49 109 876543",
+            "qualifications": [
+                "UEK",
+                "EL"
+            ]
+        }
+    ]
+}
